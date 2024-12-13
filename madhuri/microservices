@@ -1,0 +1,4 @@
+#!/bin/bash
+# first git file
+my_array=("madhuri" "mahender" "aaradhya" "family")
+echo Display all elements : {my_array[@]}
